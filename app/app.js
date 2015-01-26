@@ -10,7 +10,7 @@
         ['ngRoute']);
 
     app.config(['$routeProvider', function ($routeProvider) {
-        var viewBase = '/swagillo/app/views/';
+        var viewBase = '/app/views/';
 
         $routeProvider
             .when('/titles', {
