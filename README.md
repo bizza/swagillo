@@ -44,4 +44,6 @@ Check the file swagillo/app/app.js to define the routing rules
 
 
 
-
+[git-home]: http://git-scm.com
+[git-github]: http://help.github.com/set-up-git-redirect
+[node-download]: http://nodejs.org/download/
